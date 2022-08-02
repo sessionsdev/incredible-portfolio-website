@@ -19,6 +19,8 @@
   },
   "type": "module",
   "dependencies": {
+    "graphql": "^16.5.0",
+    "graphql-request": "^4.3.0",
     "typewriter-effect": "^2.19.0"
   }
 }
