@@ -28,7 +28,7 @@
   }
 
   const requestHeaders = {
-    authorization: 'Bearer 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'
+    authorization: 'Bearer XXXXX'
   }
 
 
