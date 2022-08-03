@@ -3,7 +3,7 @@
     let burgerMenu = false;
 </script>
 
-<nav class="navbar is-primary is-fixed-top" aria-label="main navigation">
+<nav class="navbar is-primary is-spaced" aria-label="main navigation">
     <div class="navbar-brand">
       <a class="navbar-item is-size-4" href="/">
         SESSIONS.DEV

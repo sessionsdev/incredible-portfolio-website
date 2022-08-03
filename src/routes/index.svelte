@@ -4,6 +4,6 @@
     import TopNavBar from "$lib/component/TopNavBar.svelte";
     import Footer from "$lib/component/Footer.svelte";
 </script>
-<TopNavBar />
+<!-- <TopNavBar /> -->
 <MainPageParalax />
-<Footer />
+<!-- <Footer /> -->
