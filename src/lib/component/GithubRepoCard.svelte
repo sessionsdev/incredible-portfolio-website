@@ -3,22 +3,7 @@
 </script>
 
 <div class="columns">
-    <section class="section column is-one-third">
-        <div class="card has-no-rounded is-bg-cover is-cursor-pointer transform is-duration-300 hover-translate-y" style="background-image: url('https://images.unsplash.com/photo-1526763025764-2a8073a0cd43?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80');">
-            <div class="card-content has-no-rounded is-duration-300 pt-24">
-                <div class="content">
-                    <div class="title-transform-y is-duration-300 mb-5">
-                        <h3 class="has-text-white-bis">Dummy text title</h3>
-                        <div class="underline-br"></div>
-                    </div>
-                    <div class="text-motion has-text-white-bis transform is-duration-300 hover-translate-y">
-                        <p class="is-size-6">Lorem ipsum leo risus, porta ac thes consectetur ac,
-                        vestibulum at eros. Donec id elit non miy losre..</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+
 
 
 
