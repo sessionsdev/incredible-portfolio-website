@@ -2,7 +2,13 @@
     import GithubRepoCard from "./GithubRepoCard.svelte";
 </script>
 
-<GithubRepoCard />
+<h1 class="title">My Current Work</h1>
+<div class="columns">
+  <div class="section column is-one-third">
+    <GithubRepoCard />
+  </div>
+</div>
+
 
 
 <!-- 
